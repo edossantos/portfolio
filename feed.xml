@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edmilson.io - Web Developer - Portfolio</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Apr 2016 16:32:10 -0400</pubDate>
+    <lastBuildDate>Mon, 18 Apr 2016 16:32:10 -0400</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Printlevel</title>
+        <description>
+</description>
+        <pubDate>Fri, 16 Oct 2015 12:34:56 -0400</pubDate>
+        <link>http://yourdomain.com/web/developer/2015/10/16/job8.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/web/developer/2015/10/16/job8.html</guid>
+        
+        
+        <category>web</category>
+        
+        <category>developer</category>
+        
+      </item>
+    
+      <item>
+        <title>The Sail Loft</title>
+        <description>
+</description>
+        <pubDate>Fri, 16 Oct 2015 12:34:56 -0400</pubDate>
+        <link>http://yourdomain.com/web/developer/2015/10/16/job5.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/web/developer/2015/10/16/job5.html</guid>
+        
+        
+        <category>web</category>
+        
+        <category>developer</category>
+        
+      </item>
+    
+      <item>
+        <title>SnoOwl Business</title>
+        <description>
+</description>
+        <pubDate>Fri, 16 Oct 2015 12:34:56 -0400</pubDate>
+        <link>http://yourdomain.com/web/developer/2015/10/16/job4.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/web/developer/2015/10/16/job4.html</guid>
+        
+        
+        <category>web</category>
+        
+        <category>developer</category>
+        
+      </item>
+    
+      <item>
+        <title>Membrane Concepts</title>
+        <description>
+</description>
+        <pubDate>Fri, 16 Oct 2015 12:34:56 -0400</pubDate>
+        <link>http://yourdomain.com/web/developer/2015/10/16/job3.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/web/developer/2015/10/16/job3.html</guid>
+        
+        
+        <category>web</category>
+        
+        <category>developer</category>
+        
+      </item>
+    
+      <item>
+        <title>Burnett Williams</title>
+        <description>
+</description>
+        <pubDate>Fri, 16 Oct 2015 12:34:56 -0400</pubDate>
+        <link>http://yourdomain.com/web/developer/2015/10/16/job2.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/web/developer/2015/10/16/job2.html</guid>
+        
+        
+        <category>web</category>
+        
+        <category>developer</category>
+        
+      </item>
+    
+      <item>
+        <title>TrueBounce </title>
+        <description>
+</description>
+        <pubDate>Fri, 16 Oct 2015 12:34:56 -0400</pubDate>
+        <link>http://yourdomain.com/web/developer/2015/10/16/job1.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/web/developer/2015/10/16/job1.html</guid>
+        
+        
+        <category>web</category>
+        
+        <category>developer</category>
+        
+      </item>
+    
+      <item>
+        <title>US SaddleBag</title>
+        <description>
+</description>
+        <pubDate>Fri, 16 Oct 2015 12:34:56 -0400</pubDate>
+        <link>http://yourdomain.com/web/developer/2015/10/16/job0.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/web/developer/2015/10/16/job0.html</guid>
+        
+        
+        <category>web</category>
+        
+        <category>developer</category>
+        
+      </item>
+    
+      <item>
+        <title>Appagrapha</title>
+        <description>
+</description>
+        <pubDate>Thu, 10 Sep 2015 12:34:56 -0400</pubDate>
+        <link>http://yourdomain.com/web/developer/2015/09/10/job7.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/web/developer/2015/09/10/job7.html</guid>
+        
+        
+        <category>web</category>
+        
+        <category>developer</category>
+        
+      </item>
+    
+      <item>
+        <title>Raynham Public Library</title>
+        <description>
+</description>
+        <pubDate>Thu, 01 Jan 2015 11:34:56 -0500</pubDate>
+        <link>http://yourdomain.com/web/developer/2015/01/01/job6.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/web/developer/2015/01/01/job6.html</guid>
+        
+        
+        <category>web</category>
+        
+        <category>developer</category>
+        
+      </item>
+    
+  </channel>
+</rss>
