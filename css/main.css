@@ -482,7 +482,6 @@ section.portfolio-page {
   margin-top: 350px; }
   section.portfolio-page .portfolio-box {
     background-color: #FFFFFF;
-    overflow: hidden;
     margin-bottom: 10px;
     border: 1px solid #f1f1f1;
     height: 150px;
